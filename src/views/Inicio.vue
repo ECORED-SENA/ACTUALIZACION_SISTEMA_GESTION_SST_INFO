@@ -17,12 +17,12 @@ section
                 p.banner-principal__datos__item__texto Actualización del Sistema de Gestión de Seguridad y Salud en el Trabajo SG-SST
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto pendiente
+                p.banner-principal__datos__item__texto 22620484
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 20 Horas
               li.mb-3.banner-principal__datos__item.mb-0
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 2 semanas
               li.mb-3.banner-principal__datos__item.mb-0
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo.mb-0 Modalidad: 
